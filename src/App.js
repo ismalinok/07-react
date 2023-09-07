@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>hello</p>
+        <p>hello from react</p>
         <img src={logo} className="App-logo" alt="logo" />
         <a
           className="App-link"
